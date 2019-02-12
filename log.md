@@ -14,7 +14,7 @@ Got experience in manipulating DOM elements with:
    - `classList.add` 
    - `classList.remove`
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [JS Drum kit](https://lemon57.github.io/js30-drum-kit/)
 
 ### Day 1: February 11, 2019
 ##### 
