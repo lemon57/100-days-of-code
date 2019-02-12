@@ -14,6 +14,10 @@ Got experience in manipulating DOM elements with:
    - `classList.add` 
    - `classList.remove`
 
+Learned the difference: <br>
+**Window** is the main JavaScript object root, aka the global object in a browser.<br>
+**window.document** or just **document** is the main object of the visible (or better yet: rendered) **document object model/DOM**.<br>
+
 **Link to work:** [JS Drum kit](https://lemon57.github.io/js30-drum-kit/)
 
 ### Day 1: February 12, 2019
