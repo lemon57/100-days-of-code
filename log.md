@@ -16,12 +16,22 @@ Got experience in manipulating DOM elements with:
 
 **Link to work:** [JS Drum kit](https://lemon57.github.io/js30-drum-kit/)
 
-### Day 1: February 11, 2019
-##### 
+### Day 1: February 12, 2019
+##### FreeCodeCamp + [JavaScript30](https://javascript30.com/)
 
-**Today's Progress**: .
+**Today's Progress**: Made the second JS thing - CSS + JS Clock from [JavaScript30](https://javascript30.com/).
 
 **Thoughts**: 
+*JavaScript30:* Сontinued to learn more deeply with JS functions for manipulating DOM elements? such as:
+   - `querySelector`
+   - `{jsVariable}.style.transform` <br>
+Also mastered with:
+   - `new Date()` JS function,
+   - `transform` CSS property,
+   - `transition` CSS property,
+   - `transition-timing-function:` with `cubic-bezier` function <br>
+   
+Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 
 **Link(s) to work**: 
 
