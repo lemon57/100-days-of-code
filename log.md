@@ -37,15 +37,19 @@ Also mastered with:
    
 Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 
-**Link(s) to work**: 
+**Link(s) to work**: [CSS + JS Clock]( https://lemon57.github.io/js30-CSS-JS-Clock/)
 
 
-### Day 1: June 27, Monday
+### Day 2: February 13, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp. Basicaly - Basic Data Structures.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**:
+*JavaScript30:* Created new JS-CSS thing, today it was playing with CSS variables and JS. Found out how to change variables of properties img: `padding`, `background` and `filter`.  
+*Book:* Reading the book Bhargava A.Y. Grokking Algorithms is very interesting and understandable about algorithms and data structures. Got to know more about Hash table or simply Hash. 
+*FreeCodeCamp:* Learned how to manipulate arrays and Javascript objects using JS, as well as access and copy the information within them.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [JavaScript30 - Playing with CSS variables](https://lemon57.github.io/JS-CSS-Variables/)
+2. [FreeCodeCamp - Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
+
