@@ -45,9 +45,9 @@ Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp. Basicaly - Basic Data Structures.
 
 **Thoughts**:
-*JavaScript30:* Created new JS-CSS thing, today it was playing with CSS variables and JS. Found out how to change variables of properties img: `padding`, `background` and `filter`.  
-*Book:* Reading the book Bhargava A.Y. Grokking Algorithms is very interesting and understandable about algorithms and data structures. Got to know more about Hash table or simply Hash. 
-*FreeCodeCamp:* Learned how to manipulate arrays and Javascript objects using JS, as well as access and copy the information within them.
+*JavaScript30:* Created new JS-CSS thing, today it was playing with CSS variables and JS. Found out how to change variables of properties img: `padding`, `background` and `filter`. <br> 
+*Book:* Reading the book Bhargava A.Y. Grokking Algorithms is very interesting and understandable about algorithms and data structures. Got to know more about Hash table or simply Hash.<br> 
+*FreeCodeCamp:* Learned how to manipulate arrays and Javascript objects using JS, as well as access and copy the information within them.<br>
 
 **Link(s) to work**
 1. [JavaScript30 - Playing with CSS variables](https://lemon57.github.io/JS-CSS-Variables/)
@@ -58,9 +58,9 @@ Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 **Today's Progress**: FreeCodeCamp. Basic Algorithm Scripting. And rummage in JS array functions.
 
 **Thoughts**:
-*JavaScript30:* Rummage in JS array functions, such as: filter, sort, map, reduce...  
-*Book:* Conntinue Read the book Bhargava A.Y. Grokking Algorithms. 
-*FreeCodeCamp:* Used a lot console.log() to log variable values to the console, when I got stuck. Vey usfull instrument to solve the problems. Solved a lot basic algorithms. Trained my Brain! :smile: 
+*JavaScript30:* Rummage in JS array functions, such as: filter, sort, map, reduce...<br>  
+*Book:* Conntinue Read the book Bhargava A.Y. Grokking Algorithms.<br> 
+*FreeCodeCamp:* Used a lot console.log() to log variable values to the console, when I got stuck. Vey usfull instrument to solve the problems. Solved a lot basic algorithms. Trained my Brain! :smile: <br>
 
 **Link(s) to work**
 1. [JavaScript30 - JS Array functions](https://github.com/lemon57/js30-array-functions)
@@ -71,9 +71,9 @@ Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 **Today's Progress**: FreeCodeCamp. Basic Algorithm Scripting and Object Oriented Programming. JS30.
 
 **Thoughts**:
-*JavaScript30:* Creating flex panels image gallery. It was interesting to figure out how to make things on the page hide and appear.
-*Book:* just review last chupter about Data Structures.
-*FreeCodeCamp:* Continued to solve the basic algorithms. Ended this sections. Throw yourself into Object Oriented Programming in JS. 
+*JavaScript30:* Creating flex panels image gallery. It was interesting to figure out how to make things on the page hide and appear.<br>
+*Book:* just review last chupter about Data Structures.<br>
+*FreeCodeCamp:* Continued to solve the basic algorithms. Ended this sections. Throw yourself into Object Oriented Programming in JS. <br>
 
 **Link(s) to work**
 1. [JavaScript30 - Flex panels image gallery](https://lemon57.github.io/js30-flex-gallery/)
