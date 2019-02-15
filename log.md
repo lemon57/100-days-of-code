@@ -65,3 +65,16 @@ Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 **Link(s) to work**
 1. [JavaScript30 - JS Array functions](https://github.com/lemon57/js30-array-functions)
 2. [FreeCodeCamp - Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+
+### Day 4: February 15, 2019
+
+**Today's Progress**: FreeCodeCamp. Basic Algorithm Scripting and Object Oriented Programming. JS30.
+
+**Thoughts**:
+*JavaScript30:* Creating flex panels image gallery. It was interesting to figure out how to make things on the page hide and appear.
+*Book:* just review last chupter about Data Structures.
+*FreeCodeCamp:* Continued to solve the basic algorithms. Ended this sections. Throw yourself into Object Oriented Programming in JS. 
+
+**Link(s) to work**
+1. [JavaScript30 - Flex panels image gallery](https://lemon57.github.io/js30-flex-gallery/)
+2. [FreeCodeCamp - Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
