@@ -53,3 +53,15 @@ Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 1. [JavaScript30 - Playing with CSS variables](https://lemon57.github.io/JS-CSS-Variables/)
 2. [FreeCodeCamp - Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
 
+### Day 3: February 14, 2019
+
+**Today's Progress**: FreeCodeCamp. Basic Algorithm Scripting. And rummage in JS array functions.
+
+**Thoughts**:
+*JavaScript30:* Rummage in JS array functions, such as: filter, sort, map, reduce...  
+*Book:* Conntinue Read the book Bhargava A.Y. Grokking Algorithms. 
+*FreeCodeCamp:* Used a lot console.log() to log variable values to the console, when I got stuck. Vey usfull instrument to solve the problems. Solved a lot basic algorithms. Trained my Brain! :smile: 
+
+**Link(s) to work**
+1. [JavaScript30 - JS Array functions](https://github.com/lemon57/js30-array-functions)
+2. [FreeCodeCamp - Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
