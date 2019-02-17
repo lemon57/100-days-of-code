@@ -78,3 +78,23 @@ Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 **Link(s) to work**
 1. [JavaScript30 - Flex panels image gallery](https://lemon57.github.io/js30-flex-gallery/)
 2. [FreeCodeCamp - Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+
+### Day 5: February 16, 2019
+
+**Today's Progress**: JavaScript30 - Ajax Type ahead.
+
+**Thoughts & learning process:**:
+*JavaScript30:* Learned how: <br>
+   - fetch data from JSON and put it into Array, using *asynchronous function call* `then`,<br>
+   - filter info from Array by `function filter` according to the request, <br>
+   - display matches to html page, using for this:<br>
+      - `regexp` <br>
+      - `map function` creating new `<li>` elements on the page,<br>
+      - `innerHTML` DOM element property - incapsulate info after filter function on the page. <br>
+   - and of course use `document.querySelector` and `addEventListener`<br>
+*Book:* today <br>
+*FreeCodeCamp:* reviewed some exercises from basic algorithms block<br>
+
+**Link(s) to work**
+1. [JavaScript30 - Ajax type ahead](https://lemon57.github.io/js30-type-ahead/)
+2. [FreeCodeCamp - Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
