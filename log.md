@@ -113,5 +113,5 @@ Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 *FreeCodeCamp:* reviewed some exercises from Object Oriented Programming<br>
 
 **Link(s) to work**
-1. [JavaScript30 - Ajax type ahead](https://github.com/lemon57/js30-array-functions-2)
+1. [JavaScript30 - Array functions part 2](https://github.com/lemon57/js30-array-functions-2)
 2. [FreeCodeCamp - Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
