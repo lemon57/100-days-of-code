@@ -92,9 +92,26 @@ Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
       - `map function` creating new `<li>` elements on the page,<br>
       - `innerHTML` DOM element property - incapsulate info after filter function on the page. <br>
    - and of course use `document.querySelector` and `addEventListener`<br>
-*Book:* today <br>
+*Book:* today without reading :( <br>
 *FreeCodeCamp:* reviewed some exercises from basic algorithms block<br>
 
 **Link(s) to work**
 1. [JavaScript30 - Ajax type ahead](https://lemon57.github.io/js30-type-ahead/)
 2. [FreeCodeCamp - Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+
+### Day 6: February 17, 2019
+
+**Today's Progress**: JavaScript30 - Array function part 2.
+
+**Thoughts & learning process:**:
+*JavaScript30:* Learned the following JS functions for array: <br>
+   - `some` - is at least one person in array with certain conditions,<br>
+   - `every` - is everyone in array with certain conditions, <br>
+   - `find` - Find is like `filter`, but instead returns just the one you are looking for<br>
+   - `findIndex` - Find the element in array with this ID <br>
+*Book:* today without reading <br>
+*FreeCodeCamp:* reviewed some exercises from Object Oriented Programming<br>
+
+**Link(s) to work**
+1. [JavaScript30 - Ajax type ahead](https://github.com/lemon57/js30-array-functions-2)
+2. [FreeCodeCamp - Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
