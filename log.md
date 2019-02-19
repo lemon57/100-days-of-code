@@ -115,3 +115,45 @@ Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 **Link(s) to work**
 1. [JavaScript30 - Array functions part 2](https://github.com/lemon57/js30-array-functions-2)
 2. [FreeCodeCamp - Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+
+### Day 7: February 18, 2019
+
+**Today's Progress**: FreeCodeCamp.
+
+**Thoughts & learning process:**:
+*JavaScript30:* just reviewed last lessons
+*Book:* today without reading <br>
+*FreeCodeCamp:* <br>
+Learned the following blocks: Object Oriented Programming and Functional programming. Mastered such func terminology and their applying: <br> 
+ - callbacks, <br>
+ - firstclass, <br>
+ - lambda <br> 
+ From OOP: 
+ - constructor func, <br> 
+ - prototype, <br>
+ - inheritance, <br>
+ - IIFE <br>
+
+**Link(s) to work**
+1. [JavaScript30 - Array functions part 1 and 2](https://github.com/lemon57/js30-array-functions-2)
+2. [FreeCodeCamp - Object Oriented Programming and Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+
+### Day 8: February 19, 2019
+
+**Today's Progress**: JavaScript30 - canvas HTML5 exercise. FreeCodeCamp - Functional Programming.
+
+**Thoughts & learning process:**:
+*JavaScript30:* Mastered following things: <br>
+   - `canvas` - element is used to draw graphics on a web page,<br>
+Parameters that are used for `canvas` element:
+   - `strokeStyle` - , <br>
+   - `lineJoin`, `lineCap`, `lineWidth` ... - <br>
+   How use `addEventListener` for drawing on canvas:
+   
+    <br>
+*Book:* today without reading <br>
+*FreeCodeCamp:* reviewed some exercises from Object Oriented Programming<br>
+
+**Link(s) to work**
+1. [JavaScript30 - Array functions part 2](https://github.com/lemon57/js30-array-functions-2)
+2. [FreeCodeCamp - Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
