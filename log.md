@@ -144,8 +144,8 @@ Learned the following blocks: Object Oriented Programming and Functional program
 
 **Thoughts & learning process:**:
 *JavaScript30:* <br>
-*First exercise - canvas HTML5:*
-Mastered following things: <br>
+*First exercise - canvas HTML5:* <br>
+Mastered following things: 
    - `canvas` - element is used to draw graphics on a web page,<br>
 Learned properties that are used for `canvas` element:
    - `strokeStyle` - , <br>
