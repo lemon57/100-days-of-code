@@ -144,7 +144,7 @@ Learned the following blocks: Object Oriented Programming and Functional program
 
 **Thoughts & learning process:**:
 *JavaScript30:* <br>
-*First exercise - canvas HTML5:* <br>
+*First exercise - canvas HTML5:*
 Mastered following things: <br>
    - `canvas` - element is used to draw graphics on a web page,<br>
 Learned properties that are used for `canvas` element:
@@ -166,4 +166,4 @@ Used `addEventListener` for drawing on the canvas, checking following events: <b
 **Link(s) to work**
 1. [JavaScript30 - Canvas HTML5](https://lemon57.github.io/30js-canvas-html5/)
 2. [JavaScript30 - Check multiply checkboxes](https://lemon57.github.io/js30-checkboxes/)
-2. [FreeCodeCamp - Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+2. [FreeCodeCamp - Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
