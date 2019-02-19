@@ -121,7 +121,7 @@ Realy like manipulate HTML "clock" element - "mins-hand" with JS functions!
 **Today's Progress**: FreeCodeCamp.
 
 **Thoughts & learning process:**:
-*JavaScript30:* just reviewed last lessons
+*JavaScript30:* just reviewed last lessons <br>
 *Book:* today without reading <br>
 *FreeCodeCamp:* <br>
 Learned the following blocks: Object Oriented Programming and Functional programming. Mastered such func terminology and their applying: <br> 
